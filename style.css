@@ -1,0 +1,28 @@
+body {
+	background: url(profilePicture.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.jumbotron {
+	text-align: center;
+	background: rgba(0,0,0,0.2) !important;
+	color: white !important;
+	margin-top: 25%;
+}
+
+.socialBtns {
+	letter-spacing: 0.3em
+}
+
+.socialBtns i {
+	color: white;
+}
+
+.socialBtns i:hover {
+	color: #6d6d6d !important;
+}
+
+html {
+	height: 100%;
+}
